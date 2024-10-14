@@ -1,2 +1,2 @@
-# 01-HTML
-Ejercicio de HTML y CSS
+# BootCamp JS
+Ejercicios del Bootcamp de JavaScript de LemonCode
